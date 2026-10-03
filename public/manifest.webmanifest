@@ -1,0 +1,23 @@
+{
+  "name": "ApiDesk - Local API Client",
+  "short_name": "ApiDesk",
+  "description": "Offline-first desktop API client, request manager, endpoint tester & team sync",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/app_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

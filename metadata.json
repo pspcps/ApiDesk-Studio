@@ -1,0 +1,6 @@
+{
+  "name": "ApiDesk - Local API Client",
+  "description": "Offline-first desktop API client, endpoint testing suite, cURL auto-converter, collection organizer, and JSON team sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
